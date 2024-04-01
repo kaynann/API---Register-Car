@@ -30,6 +30,14 @@
 
 ```bash
 $ npm install
+#
+# creation of CRUD
+$ npm i --save class-validator class-transformer
+#
+# connect to database
+$ npm install  @prisma/client
+#
+$ npm install @nest/mapped-types
 ```
 
 ## Running the app
